@@ -1,8 +1,7 @@
 #!/usr/bin/python
 
 """
-This example shows how to create an empty Mininet object
-(without a topology object) and add nodes to it manually.
+This example shows how to create an flow table based ACL on a SDN by parsing JSON MUD files.
 """
 
 from mininet.net import Mininet
